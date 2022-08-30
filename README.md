@@ -55,7 +55,7 @@ We have 6 blocks for feature extraction followed by a header. Each block contain
 </p>
 
 ## Losses
-![image](losses.PNG) 
+![image](losses.PNG)
   
 ## Accuracy
 ![image](accuracy.PNG) 
